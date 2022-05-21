@@ -1,5 +1,5 @@
 import { NextPage } from "next";
-import Link from 'next/link'
+import Link from "next/link";
 import {
   StyledCard,
   StyledDetailsWrapper,
@@ -8,7 +8,7 @@ import {
 } from "./styles/styles";
 import ProductImage from "../ProductImage";
 import AddToCartButton from "../AddToCartButton";
-import ProductPrice from '../ProductPrice'
+import ProductPrice from "../ProductPrice";
 
 interface ProductCardProps {
   product: {
@@ -33,12 +33,12 @@ const ProductCard: NextPage<ProductCardProps> = ({ product }) => {
           <StyledProductName component="div">
             <Link href={product.seo.href}>{product.name}</Link>
           </StyledProductName>
+          <ProductPrice price={product.price} />
           <StyledMoreColorsButton variant="p">
             Más Colores
           </StyledMoreColorsButton>
-          <ProductPrice price={product.price}/>
-          <AddToCartButton />
 
+          <AddToCartButton />
         </StyledDetailsWrapper>
       </div>
     </StyledCard>

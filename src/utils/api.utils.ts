@@ -65,7 +65,7 @@ export const getProductByQueryString = (data: Array<any>, parameters: any): Arra
   if (id) {
     return apiActions.lookup(data, id, 'id', false)
   } else if(name) {
-    return apiActions.lookupAny(data, name.toUpperCase(), 'name', false)
+    return apiActions.lookupAny(data, name.toLowerCase(), 'name', false)
   }
 
   return data

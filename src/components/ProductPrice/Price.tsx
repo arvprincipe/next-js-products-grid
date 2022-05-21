@@ -1,4 +1,5 @@
 import { NextPage } from "next";
+import { DisplayPrice, OfferPrice } from './styles/styles'
 
 interface FormattedPriceDisplayProps {
   min: number | null;
@@ -15,8 +16,8 @@ interface FormattedPriceDisplayProps {
  * @param props
  */
 const PriceDisplay: NextPage<FormattedPriceDisplayProps> = (props) => {
-  const min = props.min;
-  const max = props.max ? props.max : null;
+  const min: any = props.min;
+  const max: any = props.max ? props.max : null;
   const currency = props.currency;
   const language = props.language;
   const message = props.message;
@@ -24,28 +25,34 @@ const PriceDisplay: NextPage<FormattedPriceDisplayProps> = (props) => {
   return (
     <>
       {currency && (
-        <>
+        <div className="prices">
           {max === null ? (
             min === null ? (
               <>{message}</>
             ) : (
-              <>
+              <DisplayPrice>
                 {Intl.NumberFormat(language, {
                   style: "currency",
                   currency,
                 }).format(min)}
-              </>
+              </DisplayPrice>
             )
           ) : (
-            <>{`${Intl.NumberFormat(language, {
-              style: "currency",
-              currency,
-            }).format(min)} - ${Intl.NumberFormat(language, {
-              style: "currency",
-              currency,
-            }).format(max)}`}</>
+            <>
+              <OfferPrice>
+                {` ${Intl.NumberFormat(language, {
+                  style: "currency",
+                  currency,
+                }).format(max)}`}</OfferPrice>
+              <DisplayPrice>
+                {`${Intl.NumberFormat(language, {
+                  style: "currency",
+                  currency,
+                }).format(min)}`}
+              </DisplayPrice>
+            </>
           )}
-        </>
+        </div>
       )}
     </>
   );

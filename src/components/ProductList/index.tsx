@@ -1,19 +1,25 @@
-import React from 'react'
-import {
-  StyledGrid,
-} from './styles'
+import React from "react";
+import Grid from "@mui/material/Grid";
+import { StyledGrid } from "./styles";
 import StyledProductCard from "../ProductCard";
 
 interface ProductListProps {
-  productList: Array<any>
+  productList: Array<any>;
+  isMobile?: boolean;
+  gridColumns: number;
 }
 
-const ProductList = ({ productList }: ProductListProps) => {
+const ProductList = ({
+  productList,
+  gridColumns,
+}: ProductListProps) => {
 
   return (
-    <StyledGrid>
-      {productList.map((product: any) => (
-        <StyledProductCard key={product.id} product={product} />
+    <StyledGrid gridcolumns={gridColumns}>
+      {productList.map((product: any, index: any) => (
+        <Grid item key={index}>
+          <StyledProductCard key={product.id} product={product} />
+        </Grid>
       ))}
     </StyledGrid>
   );

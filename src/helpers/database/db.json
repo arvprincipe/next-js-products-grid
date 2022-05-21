@@ -1,787 +1,685 @@
 {
   "contents": [
-    {
-      "id": "3074457345616881314",
-      "name": "CHALECO AUTU CRUDO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/chalecos/autu/190x240/chaleco-mujer-autu-crudo--892-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "11999"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "119990"
-        }
-      ],
-      "seo": {
-        "href": "/728677-000892"
+      {
+          "id": "3074457345616881305",
+          "name": "camisa aeji amarillo estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/aeji/190x240/camisa-mujer-aeji-amarillo-estampado-39699-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 364
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 113
+              }
+          ],
+          "seo": {
+              "href": "/727997-039699"
+          }
+      },
+      {
+          "id": "3074457345616881308",
+          "name": "camisa auxu blanca",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/auxu/190x240/camisa-mujer-auxu-blanco-908-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 283
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 53
+              }
+          ],
+          "seo": {
+              "href": "/728676-000908"
+          }
+      },
+      {
+          "id": "3074457345616881314",
+          "name": "chaleco autu crudo",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/chalecos/autu/190x240/chaleco-mujer-autu-crudo--892-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 342
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 96
+              }
+          ],
+          "seo": {
+              "href": "/728677-000892"
+          }
+      },
+      {
+          "id": "3074457345616881295",
+          "name": "camisa auga habano",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/auga/190x240/camisa-mujer-auga-habano-28494-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 384
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 106
+              }
+          ],
+          "seo": {
+              "href": "/727995-028494"
+          }
+      },
+      {
+          "id": "3074457345616881300",
+          "name": "camisa auga negro estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/auga/190x240/camisa-mujer-auga-negro-estampado-39668-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 413
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 45
+              }
+          ],
+          "seo": {
+              "href": "/727995-039668"
+          }
+      },
+      {
+          "id": "3074457345616881170",
+          "name": "chaleco autu verde",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/chalecos/autu/190x240/chaleco-mujer-autu-verde-17270-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 258
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 118
+              }
+          ],
+          "seo": {
+              "href": "/728677-017270"
+          }
+      },
+      {
+          "id": "3074457345616868413",
+          "name": "camisa lume blanca",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lume/190x240/camisa-mujer-adulta-lume-blanco-908-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 249
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 105
+              }
+          ],
+          "seo": {
+              "href": "/727558-000908"
+          }
+      },
+      {
+          "id": "3074457345616868411",
+          "name": "camisa lume palo de rosa",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lume/190x240/camisa-mujer-adulta-lume-palo-de-rosa-16384-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 286
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 122
+              }
+          ],
+          "seo": {
+              "href": "/727558-016384"
+          }
+      },
+      {
+          "id": "3074457345616868604",
+          "name": "camisa mariel verde estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/mariel/190x240/camisa-mujer-mariel-verde-estampado-39680-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 220
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 120
+              }
+          ],
+          "seo": {
+              "href": "/724900-039680"
+          }
+      },
+      {
+          "id": "3074457345616868401",
+          "name": "camisa livis blanco rayas",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/livis/190x240/camisa-mujer-adulta-livis-blanco-rayas-40194-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 435
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 119
+              }
+          ],
+          "seo": {
+              "href": "/727584-040194"
+          }
+      },
+      {
+          "id": "3074457345616868870",
+          "name": "camisa linka 2 habano est",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linka_2/190x240/camisa-mujer-linka-2-habano-est-39677-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 304
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 196
+              }
+          ],
+          "seo": {
+              "href": "/709593-039677"
+          }
+      },
+      {
+          "id": "3074457345616868568",
+          "name": "camisa kaia blanco rayas",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/kaia/190x240/camisa-mujer-kaia-blanco-rayas-40194-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 265
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 133
+              }
+          ],
+          "seo": {
+              "href": "/725832-040194"
+          }
+      },
+      {
+          "id": "3074457345616868891",
+          "name": "camisa linell blanco rayas",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-blanco-rayas-40194-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 462
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 181
+              }
+          ],
+          "seo": {
+              "href": "/708345-040194"
+          }
+      },
+      {
+          "id": "3074457345616868894",
+          "name": "camisa linell estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-estampado-39692-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 431
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 90
+              }
+          ],
+          "seo": {
+              "href": "/708345-039692"
+          }
+      },
+      {
+          "id": "3074457345616868892",
+          "name": "camisa linell blanco estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-blanco-estampado-39866-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 464
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 33
+              }
+          ],
+          "seo": {
+              "href": "/708345-039866"
+          }
+      },
+      {
+          "id": "3074457345616868403",
+          "name": "camisa livis blanca",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/livis/190x240/camisa-mujer-adulta-livis-blanco-900-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 210
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 70
+              }
+          ],
+          "seo": {
+              "href": "/727584-000900"
+          }
+      },
+      {
+          "id": "3074457345616868405",
+          "name": "camisa lupe blanco rayas",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lupe/190x240/camisa-mujer-adulta-lupe-blanco-rayas-40194-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 488
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 75
+              }
+          ],
+          "seo": {
+              "href": "/727583-040194"
+          }
+      },
+      {
+          "id": "3074457345616868409",
+          "name": "camisa lume kaki",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lume/190x240/camisa-mujer-adulta-lume-kaki-42083-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 347
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 115
+              }
+          ],
+          "seo": {
+              "href": "/727558-042083"
+          }
+      },
+      {
+          "id": "3074457345616868837",
+          "name": "camisa elilena café estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/elilena/190x240/camisa-mujer-adulta-elilena-cafe-estampado-39674-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 325
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 55
+              }
+          ],
+          "seo": {
+              "href": "/711556-039674"
+          }
+      },
+      {
+          "id": "3074457345616868893",
+          "name": "camisa linell blanco estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-blanco-estampado-39793-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 432
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 76
+              }
+          ],
+          "seo": {
+              "href": "/708345-039793"
+          }
+      },
+      {
+          "id": "3074457345616868869",
+          "name": "camisa linka 2 blanco estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linka_2/190x240/camisa-mujer-linka-2-blanco-estampado-39870-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 242
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 67
+              }
+          ],
+          "seo": {
+              "href": "/709593-039870"
+          }
+      },
+      {
+          "id": "3074457345616868836",
+          "name": "camisa elilena blanco estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/elilena/190x240/camisa-mujer-adulta-elilena-blanco-estampado-39793-frente-gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 415
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 28
+              }
+          ],
+          "seo": {
+              "href": "/711556-039793"
+          }
+      },
+      {
+          "id": "3074457345616825949",
+          "name": "camisa linell negra",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/Gef/ES-CO/Imagenes/Mujeres/CAMISAS_BLUSAS/Linell/190x240/Camisa-Mujer-Linell-Negro-7188-r-frente-Gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 212
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 56
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-linell-708345-007188"
+          }
+      },
+      {
+          "id": "3074457345616841146",
+          "name": "camisa elilena blanco estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujer_Adulta/CAMISAS/Elilena/190x240/Camisa-Mujer-Adulta-Elilena-Blanco-estampado-39690-Frente-GEF.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 376
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 113
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-elilena-711556-039690"
+          }
+      },
+      {
+          "id": "3074457345616837978",
+          "name": "camisa amali negra",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Amali/190x240/Camisa-Mujer-Amali-Negro-799-Frente-Gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 234
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 197
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-amali-723991-000799"
+          }
+      },
+      {
+          "id": "3074457345616839950",
+          "name": "camisa linka 2 blanco puntos",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2020/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linka_2/190x240/Camisa-Mujer-Linka-2-Negro-7188-Frente-Gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 220
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 131
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-linka-2-709593-040198"
+          }
+      },
+      {
+          "id": "3074457345616832472",
+          "name": "camisa linka 2 blanca",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/Gef/ES-CO/Imagenes/Mujeres/CAMISAS/Linka_2/190x240/Camisa-Mujer-Linka-2-Blanco-904-r-Frente-Gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 418
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 59
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-linka-2-709593-000904"
+          }
+      },
+      {
+          "id": "3074457345616837979",
+          "name": "camisa amali blanca",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Amali/190x240/Camisa-Mujer-Amali-Blanco-908-Frente-Gef-R.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 385
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 96
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-amali-723991-000908"
+          }
+      },
+      {
+          "id": "3074457345616839352",
+          "name": "camisa elilena blanco rayas",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujer_Adulta/CAMISAS/Elilena/190x240/Camisa-Mujer-Adulta-Elilena-Blanco-26764-Frente-Gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 423
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 126
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-elilena-711556-040194"
+          }
+      },
+      {
+          "id": "3074457345616841193",
+          "name": "camisa linell habano",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linell/190x240/Camisa-Mujer-Linell-Habano-est-39677-Frente-GEF.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 394
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 100
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-linell-708345-039677"
+          }
+      },
+      {
+          "id": "3074457345616841196",
+          "name": "camisa linell azul estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linell/190x240/Camisa-Mujer-Linell-Azul-estampado-9287-Frente-GEF.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 372
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 142
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-linell-708345-009287"
+          }
+      },
+      {
+          "id": "3074457345616839946",
+          "name": "camisa linka 2 azul estampado",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linka_2/190x240/Camisa-Mujer-Linka-2-Azul-Oscuro-5756-Frente-Gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 330
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 70
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-linka-2-709593-039673"
+          }
+      },
+      {
+          "id": "3074457345616825954",
+          "name": "camisa linell blanca",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/Gef/ES-CO/Imagenes/Mujeres/CAMISAS_BLUSAS/Linell/190x240/Camisa-Mujer-Linell-Blanco-902-r-frente-Gef.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 329
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 142
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-linell-708345-000902"
+          }
+      },
+      {
+          "id": "3074457345616840923",
+          "name": "camisa kaia blanca",
+          "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Kaia/190x240/Camisa-Mujer-Kaia-Blanco-900-Frente-GEF.jpg",
+          "price": [
+              {
+                  "currency": "EUR",
+                  "usage": "Display",
+                  "value": 212
+              },
+              {
+                  "currency": "EUR",
+                  "usage": "Offer",
+                  "value": 57
+              }
+          ],
+          "seo": {
+              "href": "/camisa-mujer-kaia-725832-000900"
+          }
       }
-    },
-    {
-      "id": "3074457345616881300",
-      "name": "CAMISA AUGA NEGRO ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/auga/190x240/camisa-mujer-auga-negro-estampado-39668-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "69990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "69990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727995-039668"
-      }
-    },
-    {
-      "id": "3074457345616881170",
-      "name": "CHALECO AUTU VERDE",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/chalecos/autu/190x240/chaleco-mujer-autu-verde-17270-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "119990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "119990.0"
-        }
-      ],
-      "seo": {
-        "href": "/728677-017270"
-      }
-    },
-    {
-      "id": "3074457345616881308",
-      "name": "CAMISA AUXU BLANCA",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/auxu/190x240/camisa-mujer-auxu-blanco-908-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "119990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "119990.0"
-        }
-      ],
-      "seo": {
-        "href": "/728676-000908"
-      }
-    },
-    {
-      "id": "3074457345616881305",
-      "name": "CAMISA AEJI AMARILLO ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/aeji/190x240/camisa-mujer-aeji-amarillo-estampado-39699-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "79990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "79990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727997-039699"
-      }
-    },
-    {
-      "id": "3074457345616881295",
-      "name": "CAMISA AUGA HABANO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/auga/190x240/camisa-mujer-auga-habano-28494-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "69990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "69990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727995-028494"
-      }
-    },
-    {
-      "id": "3074457345616868405",
-      "name": "CAMISA LUPE BLANCO RAYAS",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lupe/190x240/camisa-mujer-adulta-lupe-blanco-rayas-40194-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727583-040194"
-      }
-    },
-    {
-      "id": "3074457345616868409",
-      "name": "CAMISA LUME KAKI",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lume/190x240/camisa-mujer-adulta-lume-kaki-42083-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "79990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "79990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727558-042083"
-      }
-    },
-    {
-      "id": "3074457345616868411",
-      "name": "CAMISA LUME PALO DE ROSA",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lume/190x240/camisa-mujer-adulta-lume-palo-de-rosa-16384-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "79990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "79990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727558-016384"
-      }
-    },
-    {
-      "id": "3074457345616868413",
-      "name": "CAMISA LUME BLANCA",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/lume/190x240/camisa-mujer-adulta-lume-blanco-908-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "79990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "79990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727558-000908"
-      }
-    },
-    {
-      "id": "3074457345616868401",
-      "name": "CAMISA LIVIS BLANCO RAYAS",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/livis/190x240/camisa-mujer-adulta-livis-blanco-rayas-40194-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727584-040194"
-      }
-    },
-    {
-      "id": "3074457345616868403",
-      "name": "CAMISA LIVIS BLANCA",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/livis/190x240/camisa-mujer-adulta-livis-blanco-900-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/727584-000900"
-      }
-    },
-    {
-      "id": "3074457345616868836",
-      "name": "CAMISA ELILENA BLANCO ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujer_adulta/camisas/elilena/190x240/camisa-mujer-adulta-elilena-blanco-estampado-39793-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/711556-039793"
-      }
-    },
-    {
-      "id": "3074457345616868604",
-      "name": "CAMISA MARIEL VERDE ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/mariel/190x240/camisa-mujer-mariel-verde-estampado-39680-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "64990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "64990.0"
-        }
-      ],
-      "seo": {
-        "href": "/724900-039680"
-      }
-    },
-    {
-      "id": "3074457345616868894",
-      "name": "CAMISA LINELL ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-estampado-39692-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/708345-039692"
-      }
-    },
-    {
-      "id": "3074457345616868893",
-      "name": "CAMISA LINELL BLANCO ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-blanco-estampado-39793-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/708345-039793"
-      }
-    },
-    {
-      "id": "3074457345616868837",
-      "name": "CAMISA ELILENA CAFÉ ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/elilena/190x240/camisa-mujer-adulta-elilena-cafe-estampado-39674-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/711556-039674"
-      }
-    },
-    {
-      "id": "3074457345616868869",
-      "name": "CAMISA LINKA 2 BLANCO ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linka_2/190x240/camisa-mujer-linka-2-blanco-estampado-39870-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "69990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "69990.0"
-        }
-      ],
-      "seo": {
-        "href": "/709593-039870"
-      }
-    },
-    {
-      "id": "3074457345616868870",
-      "name": "CAMISA LINKA 2 HABANO EST",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linka_2/190x240/camisa-mujer-linka-2-habano-est-39677-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "69990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "69990.0"
-        }
-      ],
-      "seo": {
-        "href": "/709593-039677"
-      }
-    },
-    {
-      "id": "3074457345616868568",
-      "name": "CAMISA KAIA BLANCO RAYAS",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/kaia/190x240/camisa-mujer-kaia-blanco-rayas-40194-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "119990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "119990.0"
-        }
-      ],
-      "seo": {
-        "href": "/725832-040194"
-      }
-    },
-    {
-      "id": "3074457345616868891",
-      "name": "CAMISA LINELL BLANCO RAYAS",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-blanco-rayas-40194-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/708345-040194"
-      }
-    },
-    {
-      "id": "3074457345616868892",
-      "name": "CAMISA LINELL BLANCO ESTAMPADO",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2022/gef/es-co/imagenes/mujeres/camisas/linell/190x240/camisa-mujer-linell-blanco-estampado-39866-frente-gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/708345-039866"
-      }
-    },
-    {
-      "id": "3074457345616837979",
-      "name": "Camisa Amali Blanca",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Amali/190x240/Camisa-Mujer-Amali-Blanco-908-Frente-Gef-R.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-amali-723991-000908"
-      }
-    },
-    {
-      "id": "3074457345616825954",
-      "name": "Camisa Linell Blanca",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/Gef/ES-CO/Imagenes/Mujeres/CAMISAS_BLUSAS/Linell/190x240/Camisa-Mujer-Linell-Blanco-902-r-frente-Gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-linell-708345-000902"
-      }
-    },
-    {
-      "id": "3074457345616832472",
-      "name": "Camisa Linka 2 Blanca",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/Gef/ES-CO/Imagenes/Mujeres/CAMISAS/Linka_2/190x240/Camisa-Mujer-Linka-2-Blanco-904-r-Frente-Gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "69990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "69990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-linka-2-709593-000904"
-      }
-    },
-    {
-      "id": "3074457345616841193",
-      "name": "Camisa Linell Habano",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linell/190x240/Camisa-Mujer-Linell-Habano-est-39677-Frente-GEF.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-linell-708345-039677"
-      }
-    },
-    {
-      "id": "3074457345616841196",
-      "name": "Camisa Linell Azul Estampado",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linell/190x240/Camisa-Mujer-Linell-Azul-estampado-9287-Frente-GEF.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-linell-708345-009287"
-      }
-    },
-    {
-      "id": "3074457345616841146",
-      "name": "Camisa Elilena Blanco Estampado",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujer_Adulta/CAMISAS/Elilena/190x240/Camisa-Mujer-Adulta-Elilena-Blanco-estampado-39690-Frente-GEF.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-elilena-711556-039690"
-      }
-    },
-    {
-      "id": "3074457345616825949",
-      "name": "Camisa Linell Negra",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/Gef/ES-CO/Imagenes/Mujeres/CAMISAS_BLUSAS/Linell/190x240/Camisa-Mujer-Linell-Negro-7188-r-frente-Gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "59990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "59990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-linell-708345-007188"
-      }
-    },
-    {
-      "id": "3074457345616837978",
-      "name": "Camisa Amali Negra",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Amali/190x240/Camisa-Mujer-Amali-Negro-799-Frente-Gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-amali-723991-000799"
-      }
-    },
-    {
-      "id": "3074457345616839352",
-      "name": "Camisa Elilena Blanco Rayas",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujer_Adulta/CAMISAS/Elilena/190x240/Camisa-Mujer-Adulta-Elilena-Blanco-26764-Frente-Gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "89990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "89990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-elilena-711556-040194"
-      }
-    },
-    {
-      "id": "3074457345616840923",
-      "name": "Camisa Kaia Blanca",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Kaia/190x240/Camisa-Mujer-Kaia-Blanco-900-Frente-GEF.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "119990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "119990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-kaia-725832-000900"
-      }
-    },
-    {
-      "id": "3074457345616839950",
-      "name": "Camisa Linka 2 Blanco Puntos",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2020/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linka_2/190x240/Camisa-Mujer-Linka-2-Negro-7188-Frente-Gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "69990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "69990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-linka-2-709593-040198"
-      }
-    },
-    {
-      "id": "3074457345616839946",
-      "name": "Camisa Linka 2 Azul Estampado",
-      "thumbnail": "/dx/api/dam/custom/CrystalCo_CAT_AS/2021/GEF/ES-CO/Imagenes/Mujeres/CAMISAS/Linka_2/190x240/Camisa-Mujer-Linka-2-Azul-Oscuro-5756-Frente-Gef.jpg",
-      "price": [
-        {
-          "usage": "Display",
-          "description": "L",
-          "currency": "COP",
-          "value": "69990.0"
-        },
-        {
-          "usage": "Offer",
-          "contractId": "4000000000000000503",
-          "description": "I",
-          "currency": "COP",
-          "value": "69990.0"
-        }
-      ],
-      "seo": {
-        "href": "/camisa-mujer-linka-2-709593-039673"
-      }
-    }
   ],
   "total": 34
 }

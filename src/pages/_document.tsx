@@ -1,7 +1,6 @@
 import * as React from 'react';
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import createEmotionServer from '@emotion/server/create-instance';
-// import theme from '../src/theme';
 import createEmotionCache from '../utils/createEmotionCache';
 
 export default class MyDocument extends Document {
@@ -9,13 +8,12 @@ export default class MyDocument extends Document {
     return (
       <Html lang="es">
         <Head>
-          <meta name="theme-color"  />
+          <meta name="theme-color" />
           <link rel="shortcut icon" href="/static/favicon.ico" />
           {/* <link
             rel="stylesheet"
             href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
           /> */}
-          {(this.props as any).emotionStyleTags}
         </Head>
         <body>
           <Main />
@@ -31,6 +29,8 @@ MyDocument.getInitialProps = async (ctx) => {
   const cache = createEmotionCache();
   const { extractCriticalToChunks } = createEmotionServer(cache);
 
+
+  /* eslint-disable */
   ctx.renderPage = () =>
     originalRenderPage({
       enhanceApp: (App: any) =>
@@ -38,6 +38,7 @@ MyDocument.getInitialProps = async (ctx) => {
           return <App emotionCache={cache} {...props} />;
         },
     });
+  /* eslint-enable */
 
   const initialProps = await Document.getInitialProps(ctx);
   const emotionStyles = extractCriticalToChunks(initialProps.html);
